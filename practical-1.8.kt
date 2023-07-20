@@ -11,7 +11,7 @@ fun main()
     b[3]=40
     b[4]=50
     for(i in 0 until b.size){
-        print("Array using Intarra
+        print("Array using Intarra")
 
     }
 
