@@ -3,13 +3,12 @@ Perform Programs in Kotlin Programming Language.
 
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String)
 
-<img src="![p1_1](https://github.com/Diya-Chauhan/practical-1_21012011011/assets/98373841/606ed2de-ed88-40af-ae40-c82792fdac86)
-">
+<img src="https://github.com/Diya-Chauhan/practical-1_21012011011/assets/98373841/606ed2de-ed88-40af-ae40-c82792fdac86">
 
 2.Type conversion:
 Integer to Double, String to Integer, String to Double.
 
-<img src="![p1_2](https://github.com/Diya-Chauhan/practical-1_21012011011/assets/98373841/59422f5b-969c-481a-851f-2ef75b615d0b">
+<img src="https://github.com/Diya-Chauhan/practical-1_21012011011/assets/98373841/59422f5b-969c-481a-851f-2ef75b615d0b">
 
 3.Scan student’s information and display all the data.
 
